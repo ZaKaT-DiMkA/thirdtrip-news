@@ -1,0 +1,4 @@
+2025-12-01 15:30,High,USDJPY,Nonfarm Payrolls
+2025-12-02 18:00,High,USD,Fed Chair Speech
+2025-12-03 10:00,High,JPY,BoJ Rate Decision
+2025-12-04 06:00,Medium,JPY,BoJ Minutes
